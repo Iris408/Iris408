@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Iris A.
 
-<!--
-**Iris408/Iris408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps & Software Engineer currently learning Python, Linux, automation, and cloud technologies through hands-on projects and continuous learning.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Linux & Bash
+* Docker
+* Git & GitHub
+* CI/CD fundamentals
+
+## 🔭 Current Projects
+
+* Shipping rate calculator
+* System health monitoring tools
+* Log file analysis scripts
+* Automation utilities
+
+## 🎯 Goals
+
+* Build real-world DevOps and backend projects
+* Improve software engineering skills
+* Learn cloud infrastructure and containerization
+* Contribute to open-source projects
+
+## 🛠️ Technologies & Tools
+
+* Python
+* Bash
+* Git
+* Linux
+* Docker *(currently learning)*
+
+## 🚀 2026 Focus
+
+Building practical projects, strengthening DevOps fundamentals, and developing real-world software engineering experience through hands-on development.
