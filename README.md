@@ -1,37 +1,74 @@
-# Hi there 👋 I'm Iris A.
+# Hi, I'm Iris 👋
 
-Aspiring DevOps & Software Engineer currently learning Python, Linux, automation, and cloud technologies through hands-on projects and continuous learning.
+Aspiring Backend & DevOps Engineer focused on Python, FastAPI, React, Docker, Linux, and cloud technologies.
 
-## 🌱 Currently Learning
+Currently building full-stack authentication systems, monitoring tools, and backend API projects while completing an MSc in Computer Science.
 
-* Python
-* Linux & Bash
-* Docker
-* Git & GitHub
-* CI/CD fundamentals
+---
 
-## 🔭 Current Projects
+## 🚀 Featured Projects
 
-* Shipping rate calculator
-* System health monitoring tools
-* Log file analysis scripts
-* Automation utilities
+### 🔐 JWT Authentication Dashboard
+Full-stack authentication and user management system built with:
+- React + TypeScript frontend
+- FastAPI backend
+- PostgreSQL database
+- JWT authentication
+- Protected routes & admin dashboards
 
-## 🎯 Goals
+### 📊 System Health Monitor
+Linux monitoring and automation tool featuring:
+- CPU / memory / disk monitoring
+- Slack alert integration
+- Docker support
+- Logging & automation workflows
 
-* Build real-world DevOps and backend projects
-* Improve software engineering skills
-* Learn cloud infrastructure and containerization
-* Contribute to open-source projects
+---
 
-## 🛠️ Technologies & Tools
+## 🛠 Tech Stack
 
-* Python
-* Bash
-* Git
-* Linux
-* Docker *(currently learning)*
+### Backend
+- Python
+- FastAPI
+- REST APIs
+- SQLAlchemy ORM
+- JWT Authentication
 
-## 🚀 2026 Focus
+### Frontend
+- React
+- TypeScript
+- HTML/CSS
+- Vite
 
-Building practical projects, strengthening DevOps fundamentals, and developing real-world software engineering experience through hands-on development.
+### DevOps & Tools
+- Docker
+- Linux
+- Git & GitHub
+- VS Code
+
+### Databases
+- PostgreSQL
+
+---
+
+## 📚 Currently Learning
+- Docker Compose
+- Cloud deployment
+- CI/CD workflows
+- Backend architecture
+- API security
+
+---
+
+## 🌏 Languages
+- English (Native)
+- Japanese (Conversational Technical)
+- Korean (Conversational)
+
+---
+
+## 🎯 2026 Goals
+- Build production-style backend applications
+- Strengthen DevOps and cloud fundamentals
+- Deploy full-stack projects
+- Contribute to open-source projects
