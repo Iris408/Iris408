@@ -1,20 +1,31 @@
 # Hi, I'm Iris.A 👋
 
-Aspiring Backend & DevOps Engineer focused on Python, FastAPI, React, Docker, Linux, and cloud technologies.
+Junior Backend & Full-Stack Engineer focused on Python, FastAPI, React, Docker, Linux, and cloud technologies.
 
-Currently building full-stack authentication systems, monitoring tools, and backend API projects while completing an MSc in Computer Science.
+Currently building full-stack dashboards, backend API systems, automation tolls, and containerized applications while completing a MSc in Computer Science and professional certifications.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 JWT Authentication Dashboard
-Full-stack authentication and user management system built with:
+### 📦 Inventory Management System
+Full-Stack inventory dashboard built with:
 - React + TypeScript frontend
 - FastAPI backend
 - PostgreSQL database
-- JWT authentication
-- Protected routes & admin dashboards
+- Docker containerization
+- SQLAlchemy ORM
+- Tailwind CSS UI
+
+Features:
+- CRUD operations
+- Analytics dashboard
+- Search & filtering
+- Sorting controls
+- Product status tracking
+- Created/updated timestamps
+- Real-time API integration
+
 
 ### 📊 System Health Monitor
 Linux monitoring and automation tool featuring:
@@ -22,6 +33,17 @@ Linux monitoring and automation tool featuring:
 - Slack alert integration
 - Docker support
 - Logging & automation workflows
+
+### 🔐 Authentication & API Systems
+
+Backend-focused projects featuring:
+
+- JWT authentication
+- Protected API routes
+- PostgreSQL integration
+- REST API architecture
+- SQLAlchemy ORM
+- User management systems
 
 ---
 
@@ -37,7 +59,7 @@ Linux monitoring and automation tool featuring:
 ### Frontend
 - React
 - TypeScript
-- HTML/CSS
+- Tailwind CSS
 - Vite
 
 ### DevOps & Tools
@@ -48,27 +70,32 @@ Linux monitoring and automation tool featuring:
 
 ### Databases
 - PostgreSQL
+- SQLite
 
 ---
 
 ## 📚 Currently Learning
 - Docker Compose
+- AWS Cloud Services
 - Cloud deployment
 - CI/CD workflows
+- Terraform
 - Backend architecture
 - API security
+- Kubernetes fundamentals
 
 ---
 
 ## 🌏 Languages
 - English (Native)
-- Japanese (Conversational Technical)
+- Japanese (Conversational / Technical)
 - Korean (Conversational)
 
 ---
 
 ## 🎯 2026 Goals
 - Build production-style backend applications
-- Strengthen DevOps and cloud fundamentals
-- Deploy full-stack projects
+- Strengthen DevOps and cloud engineering skills
+- Deploy full-stack applications to AWS
+- Build scalable containerized systems
 - Contribute to open-source projects
