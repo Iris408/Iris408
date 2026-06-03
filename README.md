@@ -47,37 +47,6 @@ Key Features:
 
 ---
 
-## 🧱 Mini Projects
-
-### 🧾 Payment Receipt Generator
-
-Python tool for generating professional PDF receipts using ReportLab.
-
-Features include:
-* Multiple item support
-* Automatic item total calculation
-* VAT summaries
-* Customer and company details
-* Payment method and payment status validation
-* Unique receipt numbers
-* Generated PDF receipts saved into a receipts/ folder
-
-⸻
-
-### 🌦️ Live Weather Report
-
-Python weather report generator that fetches live weather data, handles fallback demo data, checks weather alerts, and generates PDF weather reports.
-
-Features include:
-* Live weather API requests
-* Location-to-coordinate lookup
-* Weather alert logic
-* Timeout and retry handling
-* Fallback demo weather data
-* PDF report generation with ReportLab
-
----
-
 ## 🛠 Tech Stack
 
 **Backend:** Python, FastAPI, REST APIs, SQLAlchemy ORM, JWT Authentication  
