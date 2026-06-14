@@ -1,4 +1,4 @@
-# Hi, I'm Iris.A 👋
+# Hi, I'm Ashleigh 👋
 
 Junior Backend & Full-Stack Engineer in training focused on Python, FastAPI, React, Docker, Linux, and PostgreSQL and practical DevOps workflows.
 
