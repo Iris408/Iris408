@@ -1,8 +1,8 @@
 # Hi, I'm Ashleigh 👋
 
-Junior Backend & Full-Stack Engineer in training focused on Python, FastAPI, React, Docker, Linux, and PostgreSQL and practical DevOps workflows.
+Junior Backend & Full-Stack Developer in training, focused on Python, FastAPI, React, Docker, Linux, and PostgreSQL and practical DevOps workflows.
 
-Currently building full-stack dashboards, backend API systems, automation tools, and containerized applications while completing a MSc in Computer Science and professional certifications.
+I'm currently building full-stack dashboards, backend API systems, automation tools, and containerized applications while completing a MSc in Computer Science and professional certifications.
 
 ---
 
@@ -51,7 +51,7 @@ Key Features:
 
 **Backend:** Python, FastAPI, REST APIs, SQLAlchemy ORM, JWT Authentication  
 **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, Vite, Astro  
-**DevOps & Tools:** Docker, Docker Compose, Linux, Git, GitHub, VS Code  
+**DevOps & Tools:** Docker, Docker Compose, Linux, Git, GitHub, GitHub Actions, VS Code  
 **Databases:** PostgreSQL, SQLite  
 **Automation & Reporting:** ReportLab, API requests, PDF generation, logging
 
@@ -59,7 +59,7 @@ Key Features:
 
 ## 📚 Currently Learning
 
-Docker Compose, AWS, CI/CD pipelines, backend architecture, API security, Terraform and Kubernetes fundamentals.
+CI/CD pipelines, AWS fundamentals, backend architecture, API security, Terraform, Kubernetes fundamentals and Java/Spring Boot for full-stack backend development.
 
 ---
 
@@ -71,4 +71,4 @@ English native · Japanese conversational/technical · Korean conversational
 
 ## 🎯 2026 Goals
 
-Build production-style backend and full-stack applications, strengthen DevOps/cloud skills, deploy full-stack apps to AWS, improve CI/CD workflows and continue building a strong project-based engineering portfolio.
+Build production-style backend and full-stack applications, strengthen DevOps and cloud skills, improve CI/CD workflows, deploy full-stack applications and continue developing a strong project-based engineering portfolio.
