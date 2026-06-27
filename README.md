@@ -40,12 +40,12 @@ Key Features:
 
 ## 🛠 Tech Stack
 
-Backend: Python, FastAPI, REST APIs, SQLAlchemy ORM, JWT Authentication, Java, Spring Boot fundamentals
-Frontend: React, TypeScript, JavaScript, Tailwind CSS, Vite, Astro
-DevOps & Tools: Docker, Docker Compose, Linux, Git, GitHub, GitHub Actions, VS Code
-Databases: PostgreSQL, SQLite
-Automation & Reporting: ReportLab, API requests, PDF generation, logging
-Learning Next: AWS fundamentals, CI/CD pipelines, Terraform basics, Kubernetes fundamentals, backend architecture, API security
+- Backend: Python, FastAPI, REST APIs, SQLAlchemy ORM, JWT Authentication, Java, Spring Boot fundamentals
+- Frontend: React, TypeScript, JavaScript, Tailwind CSS, Vite, Astro
+- DevOps & Tools: Docker, Docker Compose, Linux, Git, GitHub, GitHub Actions, VS Code
+- Databases: PostgreSQL, SQLite
+- Automation & Reporting: ReportLab, API requests, PDF generation, logging
+- Learning Next: AWS fundamentals, CI/CD pipelines, Terraform basics, Kubernetes fundamentals, backend architecture, API security
 
 ## 📚 Currently Learning
 
