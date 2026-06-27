@@ -14,7 +14,7 @@ My current focus is turning beginner-to-junior projects into more production-sty
 
 Accessibility-focused routine, focus, and progress-tracking application designed around calm UI, gentle task sequencing, and neurodivergent-friendly interaction patterns.
 
-Key Features:
+### Key Features:
 
 * Routine and task management
 * Focus session support
@@ -23,8 +23,6 @@ Key Features:
 * Calm, accessible UI design
 * Dark mode and readability-focused controls
 * Future backend roadmap with authentication, profiles, and persistent data
-
-⸻
 
 ## 🔐 JWT Authentication Dashboard
 
@@ -40,56 +38,6 @@ Key Features:
 * Role-based access control
 * Deployed frontend/backend connection
 
-⸻
-
-## 📦 Inventory Management System
-
-Full-stack inventory dashboard built with React, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Docker, Docker Compose, and Tailwind CSS.
-
-Key Features:
-
-* CRUD operations
-* Analytics dashboard
-* Search, filtering, sorting, and pagination
-* Stock status tracking
-* Category and value summaries
-* FastAPI backend integration
-* PostgreSQL database
-* Docker Compose support
-
-⸻
-
-## 📊 System Health Monitor
-
-Python/Linux monitoring tool for tracking CPU, memory, and disk usage with Slack alerts, logging, Docker support, Docker Compose, and environment-based configuration.
-
-Key Features:
-
-* CPU, memory, and disk monitoring
-* Slack alert integration
-* Logging support
-* .env configuration for secrets
-* Docker and Docker Compose support
-* FastAPI health endpoint
-* Beginner-friendly DevOps monitoring workflow
-
-⸻
-
-## 🧠 Log Intelligence Analyzer
-
-Backend log analysis project using Python, FastAPI, PostgreSQL, and Docker to import, store, summarize, and analyze application logs.
-
-Key Features:
-
-* FastAPI log analysis endpoints
-* PostgreSQL log storage
-* Error summary reporting
-* Dockerized backend workflow
-* API-first project structure
-* Future dashboard and alerting roadmap
-
-⸻
-
 ## 🛠 Tech Stack
 
 Backend: Python, FastAPI, REST APIs, SQLAlchemy ORM, JWT Authentication, Java, Spring Boot fundamentals
@@ -98,8 +46,6 @@ DevOps & Tools: Docker, Docker Compose, Linux, Git, GitHub, GitHub Actions, VS C
 Databases: PostgreSQL, SQLite
 Automation & Reporting: ReportLab, API requests, PDF generation, logging
 Learning Next: AWS fundamentals, CI/CD pipelines, Terraform basics, Kubernetes fundamentals, backend architecture, API security
-
-⸻
 
 ## 📚 Currently Learning
 
@@ -111,14 +57,6 @@ Learning Next: AWS fundamentals, CI/CD pipelines, Terraform basics, Kubernetes f
 * AWS, Terraform, and Kubernetes fundamentals
 * Technical Japanese for software engineering and documentation
 
-⸻
-
-## 🌏 Languages
-
-English native · Japanese conversational / technical study · Korean conversational
-
-⸻
-
 ## 🎯 2026 Goals
 
 * Build production-style backend and full-stack applications
@@ -127,8 +65,6 @@ English native · Japanese conversational / technical study · Korean conversati
 * Develop Java and Spring Boot confidence for MSc and backend projects
 * Continue building a strong project-based engineering portfolio
 * Improve technical Japanese for future international software roles
-
-⸻
 
 ## 📌 Current Direction
 
