@@ -1,73 +1,56 @@
 # Hello, I’m Ashleigh
 
-Junior Backend & Full-Stack Developer in training, focused on Python, FastAPI, React, TypeScript, Docker, Linux, PostgreSQL, and practical DevOps workflows.
+Junior Backend & Full-Stack Developer in training, focused on Python, FastAPI, React, TypeScript, PostgreSQL, Docker, Linux, and practical DevOps workflows.
 
-I’m currently building full-stack dashboards, backend API systems, automation tools, accessibility-focused applications, and containerized projects while completing an MSc in Computer Science and professional software engineering certifications.
+I’m building production-style portfolio projects across backend APIs, full-stack dashboards, monitoring tools, automation, accessibility-focused apps, CI/CD, and containerized deployments. I’m also completing an MSc in Computer Science and developing Java/Spring Boot knowledge alongside my main Python and full-stack roadmap.
 
-My current focus is turning beginner-to-junior projects into more production-style applications with authentication, database persistence, CI/CD, deployment, documentation, and clean project structure.
+My current focus is turning beginner-to-junior projects into cleaner, more realistic applications with authentication, database persistence, testing, CI/CD, Docker, documentation, and deployment awareness.
 
-⸻
+---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🌱 Bloom — Visual Routine & Focus App
+### System Health Monitor
 
-Accessibility-focused routine, focus, and progress-tracking application designed around calm UI, gentle task sequencing, and neurodivergent-friendly interaction patterns.
+Python monitoring project that tracks CPU, memory, disk usage, and uptime with structured logging, Slack/email alerts, alert cooldowns, recovery alerts, a FastAPI `/health` endpoint, Docker healthchecks, and GitHub Actions CI/CD validation.
 
-### Key Features:
+### Inventory Management System
 
-* Routine and task management
-* Focus session support
-* Progress and reflection pages
-* Responsive React + TypeScript frontend
-* Calm, accessible UI design
-* Dark mode and readability-focused controls
-* Future backend roadmap with authentication, profiles, and persistent data
+Full-stack inventory dashboard built with FastAPI, PostgreSQL, React, TypeScript, Docker, and CI/CD. Includes CRUD operations, filtering, sorting, stock status tracking, analytics endpoints, and responsive frontend views.
 
-## 🔐 JWT Authentication Dashboard
+### Bloom
 
-Full-stack authentication dashboard built with React, TypeScript, FastAPI, PostgreSQL, JWT authentication, protected routes, and admin access.
+Accessibility-focused routine, focus, and progress-tracking app designed around calm UI, gentle task sequencing, and neurodivergent-friendly interaction patterns.
 
-Key Features:
+### JWT Authentication Dashboard
 
-* JWT login and protected routes
-* Dashboard user profile display
-* Admin-only user management page
-* FastAPI backend with PostgreSQL
-* React + TypeScript frontend
-* Role-based access control
-* Deployed frontend/backend connection
+Full-stack authentication dashboard with React, TypeScript, FastAPI, PostgreSQL, JWT login, protected routes, user profiles, and admin-only access.
 
-## 🛠 Tech Stack
+---
 
-- Backend: Python, FastAPI, REST APIs, SQLAlchemy ORM, JWT Authentication, Java, Spring Boot fundamentals
-- Frontend: React, TypeScript, JavaScript, Tailwind CSS, Vite, Astro
-- DevOps & Tools: Docker, Docker Compose, Linux, Git, GitHub, GitHub Actions, VS Code
-- Databases: PostgreSQL, SQLite
-- Automation & Reporting: ReportLab, API requests, PDF generation, logging
-- Learning Next: AWS fundamentals, CI/CD pipelines, Terraform basics, Kubernetes fundamentals, backend architecture, API security
+## Tech Stack
 
-## 📚 Currently Learning
+**Backend:** Python, FastAPI, REST APIs, SQLAlchemy, JWT, Java, Spring Boot fundamentals  
+**Frontend:** React, TypeScript, JavaScript, Tailwind CSS, Vite, Astro  
+**DevOps & Tools:** Docker, Docker Compose, Linux, Git, GitHub Actions, CI/CD  
+**Databases:** PostgreSQL, SQLite  
+**Automation:** API requests, ReportLab, PDF generation, logging  
 
-* Production-style FastAPI backend development
-* React + TypeScript frontend workflows
-* PostgreSQL, SQLAlchemy, authentication, and role-based access
-* Docker, Docker Compose, CI/CD, and deployment workflows
-* Java and Spring Boot for full-stack backend development
-* AWS, Terraform, and Kubernetes fundamentals
-* Technical Japanese for software engineering and documentation
+---
 
-## 🎯 2026 Goals
+## Currently Learning
 
-* Build production-style backend and full-stack applications
-* Strengthen FastAPI, PostgreSQL, React, and TypeScript skills
-* Improve Docker, CI/CD, cloud, and deployment workflows
-* Develop Java and Spring Boot confidence for MSc and backend projects
-* Continue building a strong project-based engineering portfolio
-* Improve technical Japanese for future international software roles
+- Production-style FastAPI backend development
+- React + TypeScript frontend workflows
+- PostgreSQL, SQLAlchemy, authentication, and role-based access
+- Docker, CI/CD, deployment workflows, and healthchecks
+- Java and Spring Boot for MSc and backend development
+- AWS, Terraform, Kubernetes, and technical Japanese
 
-## 📌 Current Direction
+---
 
-I am focused on becoming a well-rounded junior backend/full-stack developer with practical DevOps awareness.
+## Current Direction
+
+I’m focused on becoming a well-rounded junior backend/full-stack developer with practical DevOps awareness.
 
 My portfolio is built around real project workflows: planning, building, debugging, documenting, testing, containerizing, deploying, and improving applications over time.
