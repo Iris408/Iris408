@@ -21,13 +21,3 @@ Full-stack inventory dashboard built with FastAPI, PostgreSQL, React, TypeScript
 ### Bloom
 
 Accessibility-focused routine, focus, and progress-tracking app designed around calm UI, gentle task sequencing, and neurodivergent-friendly interaction patterns.
-
----
-
-## Tech Stack
-
-**Backend:** Python, FastAPI, REST APIs, SQLAlchemy, JWT, Java, Spring Boot fundamentals  
-**Frontend:** React, TypeScript, JavaScript, Tailwind CSS, Vite, Astro  
-**DevOps & Tools:** Docker, Docker Compose, Linux, Git, GitHub Actions, CI/CD  
-**Databases:** PostgreSQL, SQLite  
-**Automation:** API requests, ReportLab, PDF generation, logging  
