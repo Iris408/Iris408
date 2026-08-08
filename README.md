@@ -56,7 +56,7 @@ Current development focuses on visual task sequencing, routine management, acces
 
 ---
 
-### 🔐 AccessHub(https://github.com/Iris408/jwt-authentication-dashboard)
+### 🔐 [AccessHub](https://github.com/Iris408/jwt-authentication-dashboard)
 
 Full-stack authentication and access-control application.
 
