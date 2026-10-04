@@ -1,4 +1,4 @@
-<img align="right" width="220" src="./assets/illustration-working.png" alt="Line illustration working at a laptop">
+<img align="right" width="320" src="./assets/illustration-working.png" alt="Line illustration working at a laptop">
 
 # Ashleigh Magloire
 
