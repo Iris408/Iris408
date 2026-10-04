@@ -2,7 +2,7 @@
 
 # Ashleigh Magloire
 
-Junior Backend & Full-Stack Developer
+## Junior Backend & Full-Stack Developer
 
 I build practical APIs and full-stack applications with Python, FastAPI,
 PostgreSQL, React and TypeScript.
