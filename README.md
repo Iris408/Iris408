@@ -16,9 +16,9 @@ Junior backend & full-stack developer building practical applications with Pytho
 
 ## Selected projects
 
-- [PartsPilot](https://github.com/Iris408/partspilot) — Vehicle inventory and analytics platform; live production demo.
-- [Bloom](https://github.com/Iris408/bloom-app) — Accessibility-focused routine and focus app; v2 early beta web app now live.
-- [Pulse](https://github.com/Iris408/pulse-infrastructure-monitor) — Infrastructure monitoring with Prometheus and Grafana.
+- [PartsPilot](https://github.com/Iris408/partspilot) — Automotive inventory and analytics platform with stock tracking, low-stock alerts, and reporting; [live demo](https://partspilot.uk).
+- [Bloom](https://github.com/Iris408/bloom-app) — Accessibility-focused everyday routine and focus app for neurodivergent users; [live demo](https://bloomapp.uk).
+- [Pulse](https://github.com/Iris408/pulse-infrastructure-monitor) — Infrastructure monitoring with FastAPI, Prometheus and Grafana.
 - [LogSense](https://github.com/Iris408/log-intelligence-analyzer) — Log analysis that spots error patterns and produces operational summaries.
 
 ## Tech I use
